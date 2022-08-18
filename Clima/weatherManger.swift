@@ -17,7 +17,7 @@ class WeatherM {
     
     var delegate:UiConneter?
     
-    let url="https://api.openweathermap.org/data/2.5/weather?units=metric&appid=fcb80db3b2180d2cd9cc191278bf70cb"
+    let url="https://api.openweathermap.org/data/2.5/weather?units=metric&appid=<openWeatherKey>"
     
  public   func fetch(_ q:String){
         
