@@ -17,3 +17,7 @@ app to show you, your weather status in celsius and your sky status using open w
 
 ## example:
 
+
+
+https://user-images.githubusercontent.com/55524560/225613758-df212c00-52d1-435f-96b2-bace7ad70214.mp4
+
